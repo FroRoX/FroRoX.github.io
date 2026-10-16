@@ -36,10 +36,11 @@ nmap -p21,22,80 -sCV <IP> -oN openports
 Al ingresar al servicio web, encontramos un panel con distintas secciones, incluida una que permite consultar capturas de tráfico de red. La URL presenta el siguiente formato:
 
 ```text
-http://<IP>/data/2
+http://<IP>/data/1
 ```
 
 El identificador numérico nos lleva a comprobar si es posible acceder a otras capturas modificando directamente el valor de la URL.
+
 
 ## Enumeración
 
@@ -63,8 +64,6 @@ done
 Los resultados permiten acceder a los identificadores 0 y 1. Al inspeccionar las capturas, encontramos credenciales FTP expuestas en el tráfico.
 
 Este comportamiento evidencia una vulnerabilidad de tipo IDOR (*Insecure Direct Object Reference*), ya que es posible acceder a recursos mediante identificadores manipulables sin que la aplicación aplique correctamente los controles de autorización.
-
-![Captura de tráfico con credenciales expuestas](/assets/img/cap/captura.png)
 
 ## Acceso inicial
 
