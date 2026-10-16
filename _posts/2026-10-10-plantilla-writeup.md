@@ -7,6 +7,7 @@ tags: [plantilla, htb, linux]
 pin: false
 math: false
 mermaid: false
+published: false
 ---
 
 > Este post es solo una **plantilla**. Copia este archivo, cámbiale el nombre a `AAAA-MM-DD-nombre-de-la-maquina.md` dentro de `_posts/` y reemplaza el contenido.

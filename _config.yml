@@ -16,10 +16,10 @@ timezone: America/Santiago
 
 title: FroRoX # the main title
 
-tagline: Pentesting, Red Team y CTFs # it will display as the subtitle
+tagline: Pentesting, Red Team, Blue Team. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog de FroRoX: writeups de máquinas (HTB y otras plataformas), investigación y notas de seguridad ofensiva y Red Team, en español.
+  Blog de FroRoX: writeups de máquinas (HTB y otras plataformas), investigación y notas de Red y Blue Team, en español.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

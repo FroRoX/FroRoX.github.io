@@ -4,15 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hola, soy FroRoX 👋
+## Hola👋
 
-Bienvenido a mi blog. Aquí documento mi camino en **seguridad ofensiva y Red Team**: writeups de máquinas, notas de investigación y las técnicas que voy aprendiendo en el proceso.
-
-## Qué vas a encontrar
-
-- **Writeups**: resolución paso a paso de máquinas y retos (HTB y otras plataformas), explicando el razonamiento y no solo los comandos.
-- **Investigación y notas**: técnicas, herramientas y conceptos que me parece útil dejar por escrito.
-- **Certificaciones y experiencias**: reviews de lo que voy rindiendo.
+Bienvenido a mi FroBlog. Aquí documento mi camino en **seguridad ofensiva y Red Team**: writeups de máquinas, notas de investigación y las técnicas que voy aprendiendo en el proceso.
 
 ## Sobre mí
 
